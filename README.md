@@ -22,7 +22,7 @@ pip install .
 from fabric_demo import greet, add, slugify, truncate
 
 # Core functions
-print(greet("World"))       # "Hello, World! Welcome to Fabric Demo."
+print(greet("World"))       # "Hello, World! Welcome to FABRIC Demo."
 print(add(2, 3))            # 5
 
 # Utility functions
