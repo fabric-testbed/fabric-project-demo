@@ -1,9 +1,11 @@
-"""Core library functions."""
+"""
+Core library functions.
+"""
 
 
 def greet(name: str) -> str:
     """Return a greeting message."""
-    return f"Hello, {name}! Welcome to FABRIC Demo."
+    return f"Hello, {name}! Welcome to the FABRIC Demo."
 
 
 def add(a: float, b: float) -> float:
